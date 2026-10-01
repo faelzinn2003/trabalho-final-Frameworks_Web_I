@@ -53,6 +53,3 @@ Siga as instruções abaixo para rodar o projeto na sua máquina:
    git clone [https://github.com/faelzinn2003/trabalho-final-Frameworks_Web_I.git](https://github.com/faelzinn2003/trabalho-final-Frameworks_Web_I.git)
 
 
-1. **Clone o repositório:**
-   ```bash
-   git clone [https://github.com/faelzinn2003/trabalho-final-Frameworks_Web_I.git](https://github.com/faelzinn2003/trabalho-final-Frameworks_Web_I.gi
